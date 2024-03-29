@@ -1484,58 +1484,6 @@ strong {
 .cid-tYf3tD5AIr H2 {
   color: #23c8c4;
 }
-.cid-u8pBKIR03N {
-  display: flex;
-  padding-top: 180px;
-  padding-bottom: 180px;
-  background-image: url("../../../assets/images/e-bannerseuerdf180x90-181x91.jpg");
-}
-.cid-u8pBKIR03N .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.6;
-}
-.cid-u8pBKIR03N .content-wrap {
-  padding: 5rem 1rem;
-  max-width: 500px;
-}
-@media (min-width: 268px) {
-  .cid-u8pBKIR03N {
-    align-items: center;
-  }
-  .cid-u8pBKIR03N .row {
-    justify-content: center;
-  }
-}
-@media (max-width: 591px) and (min-width: 268px) {
-  .cid-u8pBKIR03N .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 591px) {
-  .cid-u8pBKIR03N {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-u8pBKIR03N .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-u8pBKIR03N .content-wrap {
-    width: 100%;
-  }
-}
-.cid-u8pBKIR03N .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-u8pBKIR03N .mbr-text,
-.cid-u8pBKIR03N .mbr-section-btn {
-  text-align: center;
-}
-.cid-u8pBKIR03N .mbr-section-subtitle {
-  color: #ca9236;
-  text-align: center;
-}
 .cid-u8pAdVKcKe {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2608,18 +2556,6 @@ strong {
 }
 .cid-u3jop4NEb7 input::-webkit-calendar-picker-indicator {
   display: none;
-}
-#custom-html-10 {
-  /* Type valid CSS here */
-}
-#custom-html-10 div {
-  padding: 80px 0;
-  color: #2a66b1;
-  text-align: center;
-}
-#custom-html-10 p {
-  font-size: 60px;
-  color: #777;
 }
 .cid-u3jvdA8Z78 {
   padding-top: 3rem;
