@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "homem5",
       "title": "HomeM5",
@@ -74,9 +74,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Welcome to Roussos Beach Hotel in Paros Naoussa",
+        "meta_descr": "Amazing Vacations in Cyclades in Roussos Beach Hotel in Paros island",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"hN99c1VZjLLmjNrxAGlaKDqTJkTvdfvdL2pSnGcAWw0\" />",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2426,9 +2426,9 @@
     },
     "page1.html": {
       "settings": {
-        "title": "EL",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Roussos Beach Hotel στην πανέμορφη Νάουσσα Πάρου",
+        "meta_descr": "Υπέροχες διακοπές στην Πάρο στο ξενοδοχείο Roussos Beach Hotel",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"hN99c1VZjLLmjNrxAGlaKDqTJkTvdfvdL2pSnGcAWw0\" />",
         "footer_custom": "",
         "html_before": "",
         "order": "1"
